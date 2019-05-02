@@ -1,1 +1,1 @@
-alert('hello i am from github');
+alert('hello i am from github')
