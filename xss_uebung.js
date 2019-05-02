@@ -1,1 +1,1 @@
-alert('hello i am from github')
+document.write('<h1> HELLO I AM FROM GITHUB </h1>');
